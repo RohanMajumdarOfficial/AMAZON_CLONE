@@ -1,6 +1,3 @@
-Certainly! Here's the updated description for your GitHub repository, reflecting that the website is not responsive:
-
----
 
 # Amazon.in Clone
 
@@ -34,6 +31,4 @@ Feel free to fork this repository and contribute by submitting a pull request. F
 
 This project is licensed under the MIT License.
 
----
-
-You can customize this description further based on specific details of your project or additional features you've implemented.
+ 
